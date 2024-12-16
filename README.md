@@ -1,3 +1,8 @@
+![ci](https://github.com/LogisticsPet/terraform-kubernetes-external-dns/actions/workflows/ci.yml/badge.svg?branch=main)
+![lint](https://github.com/LogisticsPet/terraform-kubernetes-external-dns/actions/workflows/lint.yml/badge.svg?branch=main)
+![sec](https://github.com/LogisticsPet/terraform-kubernetes-external-dns/actions/workflows/tfsec.yml/badge.svg?branch=main)
+
+
 ## Introduction
 Terraform module to provision external DNS on EKS cluster
 
