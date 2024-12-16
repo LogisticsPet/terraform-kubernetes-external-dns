@@ -25,12 +25,6 @@ variable "k8s_exec_command" {
   description = "Command name for Kubernetes provider exec plugin. Example - 'aws"
 }
 
-variable "iam_role_arn" {
-  type        = string
-  description = "IAM Role ARN to be attachted to service account."
-}
-
-
 variable "service_account_name" {
   type        = string
   description = "Kubernetes service account name, to be created and used for cert-manager."
