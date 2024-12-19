@@ -1,4 +1,4 @@
-Deprecated in favour of ArgoCD ApplicationSet
+# **Deprecated in favour of ArgoCD ApplicationSet**
 
 ![ci](https://github.com/LogisticsPet/terraform-kubernetes-external-dns/actions/workflows/ci.yml/badge.svg?branch=main)
 ![lint](https://github.com/LogisticsPet/terraform-kubernetes-external-dns/actions/workflows/lint.yml/badge.svg?branch=main)
